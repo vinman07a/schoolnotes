@@ -1,4 +1,12 @@
-﻿ = School =
+﻿## School 
 
-Im going to [[WorldLit]] today!
+# My classes:
+#
+# - 2015-2016
+
+* [[WorldLit]]
+* [[CollegeAlgebra]]
+* [[Portugese]]
+* [[HSWriting]]
+* [[Worldhistory]]
 

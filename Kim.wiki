@@ -1,10 +1,10 @@
-﻿[[++]] Kim Book
+﻿# Kim Book
 
 Im in [[ClassActivity]] #8.
 
 The author is [[RudyordKipling]]
 
-Published in 1901 , set in the [[EighteenHundreds]] in [[India]] and [[AfricaContinet]]
+Published in 1901, set in the [[EighteenHundreds]] in [[India]] and [[Africa]]
 
 Firt spy novel!
 

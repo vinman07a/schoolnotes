@@ -1,4 +1,4 @@
-﻿++ Rudyord Kipling
+﻿# Rudyord Kipling
 
 Born in 1863 in [[India]]
 
