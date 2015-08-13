@@ -1,0 +1,37 @@
+# 5 Paragraph [[Essay]]
+#
+## Paragrphs:
+
+# 1. Introoduction
+
+- Attention Getter
+- [[Thesis]]
+- Roadmap
+
+# Body
+#
+## 3 Paragraphs
+
+2. Body #1
+
+- Topic sentence
+- Transition
+
+3. Body #3
+
+- Topic sentence
+- Transition
+
+4. Body #4
+
+- Topic sentence
+- Clincher
+
+# 5. Conclusion
+
+- Restate your [[Thesis]]
+- Inspiring idea
+* Inspirational qoute?
+- Broadening idea
+-
+
