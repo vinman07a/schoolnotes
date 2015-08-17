@@ -1,0 +1,51 @@
+# Outline for a five paragraph [[Essay]] on the importance of open source software.
+- Open source software is a fundamental part of a modern society in digital age.
+* Becuase it offers peace of mind and security in knowing exactly how data
+is managed and ensures that it is kept from prying eyes.
+* Looking past security; open software offers users the ability to tweak
+software to meet their needs, this gives enterprise and government users the
+flexability that they need.
+* Open source software is not only free as in speech, but is aloo free as in a
+gift, provided free to all, this has obvious financial benefits.
+
+- Security is a large concern for enterprise and home users alike.
+* In a post-Snowden world, the idea that knowbody except for a software vendor
+knows exactly where data goes or how it is managed is something scary to many
+users, open source software helps to aleviate these fears.
+* Corporate espionage is not an uncommon fear among enterprise users, this is a
+reason that large corporations spend a large amount of money on security and
+IT, while taking proper security measures is always neccesary, open source
+software is usually one of those measures.
+* Data stored on government machines is generally of upmost importance to
+national security, so why would that be entrusted to Microsoft or any other
+software vendor?
+
+- When it comes to software one size does not fit every user,
+* Bussinesses generally need specialized software to fit into their workflow,
+having this software taylor made can cost them a fortune, but they are able to
+do it them selves using open source software.
+* Government users have needs like no others, with an endless amount of
+bureaucracy and reports to be handled they require increadably specialized
+software inorder to functoin digitally.
+* The ability for vendors and companies to distribute and use different and
+improved versions of different peices of software creates a diiverse and
+competeative enviroment, pushing the limits of the free market.
+
+- Software can be expensive,
+* This can be a barrier to hardware manufacturers, who may be unable to provide
+low priced products becuase they cannot offset the price of this software.
+* Without spending money on software, small bussinesses are able to spend those
+funds on other things, growing the economey as a whole.
+* Free software removes one barrier that may prevent users from getting online
+or doing the things they need/want with their devices.
+
+- In conclusion free and open source software, FOSS, provides a uniqe set of
+benifits to personal, enterprise, and government users,
+* as well as being a free alternative to things which do not offer these
+benifits.
+* Benifits, which include added security,
+* and a great amount of customizability.
+
+
+
+
