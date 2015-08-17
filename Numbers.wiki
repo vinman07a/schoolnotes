@@ -1,0 +1,27 @@
+- Natural numbers 1,2,3
+- Whole numbers 0 + Natural
+- [[Integers]] -3, -2, -1, + Wh
+- RationalNumbers can be writen as a fraction
+- [[IrrationalNumbers]] are decimals that go on forever and do not repeat
+- [[RealNumbers]] are every number on a number line, from -infinity - infinity
+
+## custom sets
+
+set notation
+
+- (x / -3 < x < 0)
+- (x / x >= 5)
+- (x / -5 < x <= 1)
+- (x / -infinty < x < -6 U 0 < x < infinity)
+
+interval notation 
+
+- (-3,0)
+- [5,infinity]
+- (-5,1]
+- (-infinty,-6 U 0,infinity)
+
+[brackets mean or equal to]
+
+
+
