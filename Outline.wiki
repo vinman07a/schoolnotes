@@ -1,4 +1,5 @@
-# Outline for a five paragraph [[Essay]] on the importance of open source software.
+# Outline for a five paragraph [[Essay]] on the importance of open source
+software, also see the [[DescriptiveOutline]] for a discriptive [[Essay]].
 - Open source software is a fundamental part of a modern society in digital age.
 * Becuase it offers peace of mind and security in knowing exactly how data
 is managed and ensures that it is kept from prying eyes.
@@ -45,7 +46,3 @@ benifits to personal, enterprise, and government users,
 benifits.
 * Benifits, which include added security,
 * and a great amount of customizability.
-
-
-
-
