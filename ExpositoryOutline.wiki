@@ -1,24 +1,24 @@
-# outline for a discriptive Essay on World Economics circa 1400
+# outline for a discriptive Essay on ambitoin
 
 ## Introduction paragraph
 ** [[Thesis]] **
-- The trading world was much different in 1400 than it is today.
+*This [[Thesis]] needs work on clarity*
+- Ambition is like a snow that falls in december, it takes hold of a person and
+brings both joy and sorrow, enumerating the joys of the holidays but to an
+extent trapping one in his residance, still yet this snow is the secret to
+success.
 - ** Main Points ** (summerized in short sentences)
-* The world's population was significantly smaller in the fifteenth century.
-* Half of the European population was killed by the Black Death in the mid
-fourteenth century.
-* A majority of the people alive, were peasants who supported the elite through
-their labors.
+* Ambition is what gives direction to life.
+* A lack of ambition can lead to stagnation, which will lead to failure.
+* Too much ambition can lead to a lack of balance.
 
 ## Body Paragraph #1
 **Main Point**
 - Ambition is what gives direction to life.
 *Subpoints*
-* The world population was aproximately 380 million, this is only slightly
-greater than the current population of the US.
-* These 380 million inhabited only 7% of the world, in just 3
-civilizations/cultures; Europe, India, and China, with all other groups of
-people making up a much smaller part of the population
+* Through the desire to acheive a goal something one can create a clear path toward
+their goal
+* Any goal must be met with an equal ambitoin
 * Without goals, which require ambition, one can lose their work ethic and fall
 into poverty
 
