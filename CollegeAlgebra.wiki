@@ -2,4 +2,7 @@
 
 - [[Numbers]]
 - [[AbsoluteValue]]
--
+- [[exponets]]
+- [[ScientificNotation]]
+- [[OrderOfOperations]]
+
