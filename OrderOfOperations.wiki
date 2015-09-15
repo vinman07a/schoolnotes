@@ -1,0 +1,16 @@
+# PEMDA
+1. parenthesis
+2. [[exponets]]
+3. multiplication
+4. division
+5. additoin
+6. subtraction
+## *PLEASE excuse my dear aunt sally*
+
+## examples
+
+5[3-8*3^2+4*6-2] = 5[3-72+24-2] = 5[-69 + 24 - 2] = 5*-47 = -235
+
+[4*(8-6)^2 * 44] (3-2*8) / 2^2(2^3 + 5) = [4*43^2 * 44] (3-16) / 4(8 + 5) = -5
+
+10/(8-6)+9*4 / 2^5 + 3^2 = 5 + 36 / 32 + 9 = 1

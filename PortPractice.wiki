@@ -1,0 +1,13 @@
+Nome completo: Vincent Insinga
+Universidade: KSU
+Cursosos: Portugese, History, Math
+Curso perfido: Historia
+
+
+Curso		Dia		Horas		Como E
+Historia	Segunda, Quarta	cinco horas	fascinante
+Matematica	Segunda, Quarta	duos horas	dificil
+Portugues	terca, quinta			nao tradicional
+
+
+

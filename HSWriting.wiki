@@ -1,3 +1,8 @@
 # Topics
 
-1. [[5ParagraphEssay]]
+- [[5ParagraphEssay]]
+- [[Thesis]]
+- [[Outline]]
+- [[DescriptiveOutline]]
+- [[TopicSentence]]
+- [[Intro]]

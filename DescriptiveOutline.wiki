@@ -1,18 +1,26 @@
-# outline for a discriptive Essay on World Economics circa 1400
+# outline for a discriptive Essay on the world circa 1400
 
 ## Introduction paragraph
 ** [[Thesis]] **
 - Pluto as seen by New Horizons eerily resembles an early earth, with it's
 frozen lakes, it's dazzling landscapes, and it's natural beauty.
 - ** Main Points ** (summerized in short sentences)
+<<<<<<< HEAD
 * Pluto's surface has ice.
 * Pluto has several landscape features that are simmilar to earths.
 * Simmilarly to Earth Pluto is a beautifull planet.
+=======
+* The world's population was significantly smaller in the fifteenth century.
+* Almost all of the people alive in this period were peasants who lived soley
+to support the ruling elite.
+* The world was very polycentric up until the early 1800s.
+>>>>>>> 2702ba250f995d1761653bb35845417fa6589aa9
 
 ## Body Paragraph #1
 **Main Point**
 - Pluto's surface has ice.
 *Subpoints*
+<<<<<<< HEAD
 * Ice capped mountains
 * Vast Ice lakes
 * Four types of ice.
@@ -33,6 +41,32 @@ frozen lakes, it's dazzling landscapes, and it's natural beauty.
 * Pluto has a huge crater in the shape of a heart
 * Methane ice caps on the poles turn the surface yellow
 
+=======
+* The world population was aproximately 380 million, this is only slightly
+greater than the current population of the US.
+* The majority of these 380 million inhabited only 7% of the world.
+* only about 10% of people lived in towns or cities.
+
+## Body Paragraph #2
+**Main Point**
+- Almost all of the people alive in this period were peasants who lived soley
+to support the ruling elite.
+*Subpoints*
+* The elite, in both Europe and Asia alike lived off of the taxes of the
+peasants.
+* The Black Death caused the crash of the european economey.
+* The Quing dynasty which rose to power in the 14th century marked the
+beginings of capitalism in China.
+
+## Body Paragraph #3
+**Main Point**
+- The world was very polycentric up until the early 1800s.
+*Subpoints*
+* Eight trade routes connected all of Afro-Euraisia.
+* No central power controlled the trading system.
+* This trade system was the very cause of the Black Death, the disease started
+in Asia, but merchants caused a great epidemic in Europe.
+>>>>>>> 2702ba250f995d1761653bb35845417fa6589aa9
 ## Conclusion
 **Basically rewrite the Introduction here**
 

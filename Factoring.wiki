@@ -1,0 +1,22 @@
+2z^3 - 8z^2 = 2z^2(z - 4)
+
+x^3 = 3x^2 + 6x + 18 = x^2(x+3) + 6(x+3)
+
+x^3 - x^2 - 6x + 6 = x^3 - x^2) +-6x + 6
+
+p^2 + 6p + 8 = (p) * (p) = (p+4) * (p + 2)
+
+
+x^2 - 8x + 12 = (x - 2) * (x-6)
+
+m^2 - m - 90 = (m+9) (m-10)
+
+3y^2 + 7y - 20 = (y + 12) * (y - 5) = (y+4) * (3y-5)
+
+2y^2 + 7y + 6 = (2y + 3) * (y + 2)
+
+heres a trick, try line 16, 2 * 6 = 12, then factor 7 and 12, (y + 3) * (y +
+2), thats not right, devide by 2 and get the awnser
+
+2(6a^2 - 7a -10) = 2(a - 2) * (6a + 5)
+

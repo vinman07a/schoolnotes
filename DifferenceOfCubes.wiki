@@ -1,0 +1,10 @@
+a^3 - b^3 = (a-b) * (a^2 + ab + b^2)
+
+(8y^3 - 125) = ((2y)^3 - 5^3) = ( 2y-5) * (4y^2 + 10y + 25)
+Also see:
+
+[[DifferenceOfSquares]]
+
+[[SumOfCubes]]
+
+[[SOAP]]

@@ -1,0 +1,46 @@
+- [[Relations]]
+
+A function is a relation where no 2 x are the same
+
+y=2x^2+3 is a function
+
+f(x)=2x^2+3
+
+f(4)=35
+(4,35)
+
+f(x) defines function f
+
+y^2=x is not a function, when y is square it is a sideways parabola.
+
+(-2,-6)(-1,0)(0,0)(1,0)(2,6)
+domain=all real [[Numbers]]
+range=all real [[Numbers]]
+
+An asemtote is an imaginary line that a curve is getting infinitely close to.
+
+y=x^2-1
+
+f(x)=1/x+2
+domain=all reals != -2 (the denominator cannot be equal to 2)
+
+f(x)=\sqroot(x)
+domain= all reals >= -3
+
+f(x)=cubed root of x
+domain= all real Numbers
+
+domain is all reals unless:
+- x in denominator: x must be !=0
+- square root of x: x must be >=0
+
+f(x)= x^3 + |x|
+domain=all reals
+
+f(x)=x^-1+3x
+domain = all reals != 0
+
+f(x)=\sqrt(2x-3)
+domain= all reals greater than or equal to 3/2
+
+

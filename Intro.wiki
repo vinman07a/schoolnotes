@@ -1,0 +1,9 @@
+An introduction paragraph is composed of;
+- An attention getter
+* question
+* punchy fragment
+* quote
+* stunning or outrageous statement
+- [[Thesis]]
+- Roadmap
+Next comes the [[Conclusion]]

@@ -2,4 +2,19 @@
 
 - [[Numbers]]
 - [[AbsoluteValue]]
+<<<<<<< HEAD
 - 
+=======
+- [[exponets]]
+- [[ScientificNotation]]
+- [[OrderOfOperations]]
+- [[Polynomials]]
+- [[Foil]]
+- [[Factoring]]
+- [[DifferenceOfSquares]]
+- [[temp]]
+- [[RadicalNotation]]
+- [[Rationalizing]]
+- [[Functions]]
+- [[MathTest1Review]]
+>>>>>>> 2702ba250f995d1761653bb35845417fa6589aa9
