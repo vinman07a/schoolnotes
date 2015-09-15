@@ -1,14 +1,13 @@
-# outline for a discriptive Essay on World Economics circa 1400
+# outline for a discriptive Essay on the world circa 1400
 
 ## Introduction paragraph
 ** [[Thesis]] **
 - The trading world was much different in 1400 than it is today.
 - ** Main Points ** (summerized in short sentences)
 * The world's population was significantly smaller in the fifteenth century.
-* Half of the European population was killed by the Black Death in the mid
-fourteenth century.
-* A majority of the people alive, were peasants who supported the elite through
-their labors.
+* Almost all of the people alive in this period were peasants who lived soley
+to support the ruling elite.
+* The world was very polycentric up until the early 1800s.
 
 ## Body Paragraph #1
 **Main Point**
@@ -16,32 +15,28 @@ their labors.
 *Subpoints*
 * The world population was aproximately 380 million, this is only slightly
 greater than the current population of the US.
-* These 380 million inhabited only 7% of the world, in just 3
-civilizations/cultures; Europe, India, and China, with all other groups of
-people making up a much smaller part of the population
-* Without goals, which require ambition, one can lose their work ethic and fall
-into poverty
+* The majority of these 380 million inhabited only 7% of the world.
+* only about 10% of people lived in towns or cities.
 
 ## Body Paragraph #2
 **Main Point**
-- A lack of ambition can lead to stagnation, which will lead to failure.
+- Almost all of the people alive in this period were peasants who lived soley
+to support the ruling elite.
 *Subpoints*
-* This is similar to the last subpoint in paragraph #1, without
-ambition, one may be content with doing the bare minimal neccesary to support
-themselves.
-* Not striving for goals can lead to a small and disapointng life.
-* As a country and world as a whole, we need ambitous people in order to
-progress.
+* The elite, in both Europe and Asia alike lived off of the taxes of the
+peasants.
+* The Black Death caused the crash of the european economey.
+* The Quing dynasty which rose to power in the 14th century marked the
+beginings of capitalism in China.
 
 ## Body Paragraph #3
 **Main Point**
-- Too much ambition can lead to a lack of balance.
+- The world was very polycentric up until the early 1800s.
 *Subpoints*
-* A person who is overly ambitous may become a workaholic
-* A large amount of ambitoin can also lead to an unfulfilling life, if one
-neglects their personal affairs
-* A balanced life usually leads to greater professional success
-
+* Eight trade routes connected all of Afro-Euraisia.
+* No central power controlled the trading system.
+* This trade system was the very cause of the Black Death, the disease started
+in Asia, but merchants caused a great epidemic in Europe.
 ## Conclusion
 **Basically rewrite the Introduction here**
 

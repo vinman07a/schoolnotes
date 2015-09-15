@@ -1,0 +1,17 @@
+\sqroot{49}=7
+\sqroot{-49}=no solution
+3rd root of -8 = -2
+you can have an odd root of a negative number, but not an even root
+\sqroot{ab} = sqroot{a}*\sqroot{b}
+\sqroot{a/b}=\sqroot{a}/\sqroot{b}
+\sqroot{a^n}=(\sqroot{a})^n
+3rd root of 8^5 = 32
+
+a^(1/n) = nth root of a
+a^(m/n) = (nth power of a)^m
+a^(-m/n)= 1/a^(m/n)
+
+## How to add radicals
+
+\sqroot{a} + \sqroot{a} = 2\sqroot{a}
+

@@ -5,4 +5,12 @@
 - [[exponets]]
 - [[ScientificNotation]]
 - [[OrderOfOperations]]
-
+- [[Polynomials]]
+- [[Foil]]
+- [[Factoring]]
+- [[DifferenceOfSquares]]
+- [[temp]]
+- [[RadicalNotation]]
+- [[Rationalizing]]
+- [[Functions]]
+- [[MathTest1Review]]

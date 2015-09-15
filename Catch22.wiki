@@ -1,0 +1,5 @@
+Catch 22 is a paradoxical situation in which solving one part of the problem
+only creates another problem, which ultimately leads back to the original
+problem.
+
+The [[ArmsRace]]

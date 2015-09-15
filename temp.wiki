@@ -1,0 +1,25 @@
+3r^2 + 6r^2 + 27r -54
+3r^2(r+2)+-27(r+2)
+(r+2)(3r^2-27)
+(r+2)3(r^2-9)
+3(r+2)(r+3)(r-3)
+[[Factoring]]
+
+v^2 t^2 - 10vt+ 25
+(vt-5)(vt-5)
+[[Factoring]] 
+
+4af^4 - 4ah^2
+4a(f^4-h^2)
+[[Factoring]]
+4a(f^2-h)(f^2-h)
+[[DifferenceOfSquares]]
+
+27w^4-8w
+w(27w^3-8)
+Factoring
+DifferenceOfCubes
+w((3w)^3-2^3)
+w(3w-2)(9w^2+6w+4)
+
+

@@ -1,0 +1,13 @@
+3x+5x^2 is a Polynomial
+
+2/x + 7 in not a polynomial 
+
+polynomials have real coeficcients
+
+exponents are whole [[Numbers]]
+
+3x+y is a Polynomial
+
+a [[Degree]] is the highest power of a polynomial 
+
+[[LeadingCoefficient]] is the coefficient of the [[Degree]]
