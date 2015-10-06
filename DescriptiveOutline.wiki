@@ -2,17 +2,46 @@
 
 ## Introduction paragraph
 ** [[Thesis]] **
-- The trading world was much different in 1400 than it is today.
+- Pluto as seen by New Horizons eerily resembles an early earth, with it's
+frozen lakes, it's dazzling landscapes, and it's natural beauty.
 - ** Main Points ** (summerized in short sentences)
+<<<<<<< HEAD
+* Pluto's surface has ice.
+* Pluto has several landscape features that are simmilar to earths.
+* Simmilarly to Earth Pluto is a beautifull planet.
+=======
 * The world's population was significantly smaller in the fifteenth century.
 * Almost all of the people alive in this period were peasants who lived soley
 to support the ruling elite.
 * The world was very polycentric up until the early 1800s.
+>>>>>>> 2702ba250f995d1761653bb35845417fa6589aa9
 
 ## Body Paragraph #1
 **Main Point**
-- Ambition is what gives direction to life.
+- Pluto's surface has ice.
 *Subpoints*
+<<<<<<< HEAD
+* Ice capped mountains
+* Vast Ice lakes
+* Four types of ice.
+
+## Body Paragraph #2
+**Main Point**
+- Pluto has several landscape features that are simmilar to earths.
+*Subpoints*
+* Great mountain ranges
+* Giant glaciers
+* Rugged terrain
+
+## Body Paragraph #3
+**Main Point**
+- Simmilarly to Earth Pluto is a beautifull planet.
+*Subpoints*
+* Pluto actually has a brown tint
+* Pluto has a huge crater in the shape of a heart
+* Methane ice caps on the poles turn the surface yellow
+
+=======
 * The world population was aproximately 380 million, this is only slightly
 greater than the current population of the US.
 * The majority of these 380 million inhabited only 7% of the world.
@@ -37,6 +66,7 @@ beginings of capitalism in China.
 * No central power controlled the trading system.
 * This trade system was the very cause of the Black Death, the disease started
 in Asia, but merchants caused a great epidemic in Europe.
+>>>>>>> 2702ba250f995d1761653bb35845417fa6589aa9
 ## Conclusion
 **Basically rewrite the Introduction here**
 
