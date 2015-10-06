@@ -9,5 +9,3 @@ Historia	Segunda, Quarta	cinco horas	fascinante
 Matematica	Segunda, Quarta	duos horas	dificil
 Portugues	terca, quinta			nao tradicional
 
-
-

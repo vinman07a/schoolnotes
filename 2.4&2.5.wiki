@@ -1,0 +1,15 @@
+# Even Function
+
+An even function is a function which is symmetric to the Y axis
+
+f(x)=f(-x)
+
+f(x)=|x| is an even Function
+
+# Odd Function 
+
+An odd function is a function which is symmetric to origin
+
+all exponents in  an odd function are odd
+
+ 

@@ -14,3 +14,8 @@
 - [[Rationalizing]]
 - [[Functions]]
 - [[MathTest1Review]]
+- [[LinearFunctions]]
+- [[ParallelLines]]
+- [[PerpendicularLines]]
+- [[1.5&1.6]]
+- [[2.1]]

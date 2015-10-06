@@ -1,0 +1,21 @@
+(-1,0),(1,0),(3,2)
+
+This is a Functions
+
+Functions have a slope
+
+[[Slope]] is \frac{rise}{run}
+
+this slope is \frac{1}{2}
+
+The [[Degree]] of a linear function is one
+
+Slope intercept form is y=mx+b
+
+m  is the slope and b is the y intercept
+
+[[EqnOfALine]]
+
+
+
+

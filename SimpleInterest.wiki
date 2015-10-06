@@ -1,0 +1,43 @@
+I=prt
+
+p=principal
+
+r=rate
+
+t=time
+
+invest $100 at 3% for 2 years
+
+I=100*.03*2
+
+We made $6!!!
+
+We have a total of $106
+
+We have two student loans, one at 5% and the other at 8%. The total amount is
+12,000 plus 750 interest. What is the amount of each loan?
+
+I1=a*.05
+
+I2=b*0.8
+
+a+b=12,000
+
+I1+I2=750
+
+a=7000
+b=5000
+
+another problem
+
+.03a+.04b=176
+
+a+b=5000
+
+.03(5000-b)+.04b=176
+
+150+.01b=176
+
+.01b=26
+
+b=2600
