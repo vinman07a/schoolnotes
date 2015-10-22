@@ -1,0 +1,39 @@
+# solving quadratics
+## all quadratics have two answers except for double zeros
+
+2x^2-x=3
+-3
+2x^2-x-3=0
+(2x-3)(x+1)=0
+solve for x=0 with both parenthasees
+x=3/2 or -1 - these are also they intercepts
+
+-2x^2+10=0
+-10
+/-2
+x^2=5
+x=\pm \sqrt{5}
+
+x^2+6x+9=0
+(x+3)(x+3)=0
+x=-3
+double zero
+
+x^2+20=0
+x^2=-20
+*[[complexnumbers]] time*
+
+\pm 2 \sqrt{5}i
+
+# Completing the square
+
+remember to google this...
+
+ax^2+bx+c=0
+\frac{-b \pm \sqrt{b^2-4ac}}{2a}
+
+2x^2-5x-3=0
+(x-3)(2x+1)
+
+
+

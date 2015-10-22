@@ -1,0 +1,31 @@
+# Intro
+
+- Attention Getter
+- Name author and book
+- Summarize book
+- thesis and roadmap, thing 1, thing 2, thing 3
+
+# Body Paragraphs
+
+## Paragraph 1
+- Thing 1
+- Quotes from story
+
+## Paragraph 2
+- Thing 2
+- Quotes from story
+
+## Paragraph 3
+- Thing 3
+- Quotes from story
+
+# Conclusion
+
+- Restatement of thesis and roadmap
+- opinion of author or book
+- how this book impacts you or others
+- Expanding thought (bullshit)
+
+# Works Cited
+
+- the book

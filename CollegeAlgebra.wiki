@@ -2,9 +2,6 @@
 
 - [[Numbers]]
 - [[AbsoluteValue]]
-<<<<<<< HEAD
-- 
-=======
 - [[exponets]]
 - [[ScientificNotation]]
 - [[OrderOfOperations]]
@@ -17,12 +14,13 @@
 - [[Rationalizing]]
 - [[Functions]]
 - [[MathTest1Review]]
-<<<<<<< HEAD
 - [[LinearFunctions]]
 - [[ParallelLines]]
 - [[PerpendicularLines]]
 - [[1.5&1.6]]
 - [[2.1]]
-=======
->>>>>>> 2702ba250f995d1761653bb35845417fa6589aa9
->>>>>>> a0612ec9937d5811badea39a7af73703510ac533
+- [[complexnumbers]]
+- [[3.2]]
+- [[GraphQuadratics]]
+- [[3.4&3.5]]
+- [[4.1&4.2]]

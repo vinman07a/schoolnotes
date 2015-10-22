@@ -1,0 +1,78 @@
+## y=x^2
+
+- parent parabola
+- vertex=(0,0)
+- axis of symmetry = x=0
+- minimum value = 0
+- domain = all reals
+- range = all reals \geq 0
+- increasing (0,\infty)
+- decreasing (-\infty,0)
+- zeroes
+	- x=0
+	- x=0
+- y-intercept = 0
+
+### y=(x+1)^2
+
+- vertex=(-1,0)
+- axis of symmetry = x=-1
+- minimum value = 0
+- domain = all reals
+- range = all reals \geq 0
+- increasing (-1,\infty)
+- decreasing (-\infty,-1)
+- zeroes
+	- -1
+	- -1
+- y-intercept = 1
+
+### y=-(x-4)^{2}+1
+
+- vertex=(4,1)
+- axis of symmetry = x=4
+- maximum value = 1
+- domain = all reals
+- range = (-\infty,1)
+- increasing (-\infty,4)
+- decreasing (4\infty)
+- zeroes
+	- x=3
+	- x=5
+- y-intercept = -15
+
+### y=a(x-h)^{2}+k
+
+- vertex form
+- vertex=(h,k)
+- google more infos on vertex form
+
+### y=x^{2}+12x-8
+
+- vertex = (-b/2a,f(-b/2a))
+- vertex = (-6,-44)
+- minimum value = -44
+- domain = all reals
+- range = (-\infty,-8)
+- increasing = (-6,\infty)
+- decreasing = (-\infty,-6)
+- zeroes
+	- 6 \pm 2 \sqrt{1}
+	- 6 \pm 2 \sqrt{1}
+- y-intercept = (0,8)
+
+### y=x^{2}+4x-5
+
+- vertex = (-2,-9)
+- line of symmetry = x=-2
+- minimum value = -9
+- domain = all reals
+- range = (-9,\infty)
+- increasing = (-2,\infty)
+- decreasing = (-\infty,-2)
+- zeroes
+	- -5
+	- 1
+- y-intercept = (0,-5)
+
+

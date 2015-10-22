@@ -1,0 +1,30 @@
+# Solving Fractions
+
+1/2-5/6=1/x
+6x/2-30x/6=6x/x
+3x-5x=6
+x=-3
+
+1/(3x+6)-1/(x^2-4)=3/(x-2)
+1/(x+2)-1/[(x+2)(x-2)]=3/(x-2)
+*3(x+2)(x-2)
+(x-2)-3=9(x+2)
+x+5=9x+18
+-23=8x
+-23/8=x
+
+2x/(x+7)=5/(x+1)
+2x(x+1)=5(x+7)
+2x^2+2x=5x+35
+2x^2-3x-35=0
+\frac{-b \pm \sqrt{b^2-4ac}}{2a}
+\frac{3 \pm \sqrt{289}}{4}
+\frac{3 \pm 17}{4}
+\frac{20}{4}
+*too lazy to type more*
+
+**Always check awnsers**
+And spelling
+hhghghhhghhhhhgfhhhhhhhhhhhhhbhhhghghhhhhghghhhhhhhhghghhhghhhhhgfhhhhhhhhhhhhhbhhghghhhhhghghhhhhhhhghghhhghhhhhgfhhhhhhhhhhhhhbhhhhgghhghhgghhggghhg ^
+
+

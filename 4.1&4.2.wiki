@@ -1,0 +1,20 @@
+# [[Polynomials]] Functions
+
+f(x) = 1+x^2+5x^3-7x^4
+
+- degree = 4
+	- highest power
+- leading term = -7x^4
+- leading coefficient = -7
+- y-intercept = (0,0)
+	- solve for x=0
+
+## Even Degree
+
+- if the leading coefficient is positive then it the parabola opens upwards, if
+negative it opens down
+
+## Odd Degree
+
+
+
