@@ -1,0 +1,39 @@
+# Synthetic division
+## Can only be used when dividing by a binomial of degree 1
+
+(2x^3-3x^2+x-1)/(x-3)
+
+---
+
+3|2 -3  1 -1
+
+  2  +6 +9 +30
+
+2 3 10 |29
+
+---
+
+2x^2+3x+10 R 29
+
+# Long Division
+
+(2x^3-3x^2+x-1)/(x-3)
+
+---
+          2x^2  +3x +10 R 29
+x-3/[2x^3|-3x^2|+x |-1 ]
+	fill this in later
+
+---
+
+# Factor f(x)=x^3-6x^2+3x+10
+
+1. Find zeros
+- -1,2,5
+2. Factor
+- (x+1)(x-2)(x-5)
+3. Profit!?!?!!?
+
+## x^4+x^3-3x^2-5x-2
+
+(x-1)(x+2)
