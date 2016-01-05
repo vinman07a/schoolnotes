@@ -1,0 +1,7 @@
+# Exponential Functions
+
+- 2^x
+
+# [[CompundInterest]]
+
+

@@ -1,0 +1,32 @@
+# Exponential Growth
+
+## p(t) = p(o*e^{kt})
+
+- o = initial amount
+- t = time 
+
+## A = P(1+(r/n))^nt
+                                                                                   forh forh forh forh forh forh forh forh forh forh forh forh forh forh forh forh forh forh forh
+## Examples
+
+- In 2006 the population of China was 1.314 billion with yearly growth rate of .6% forh
+	- growth function = 1.314e^{.0006t}
+	- find the setimated population in 2010
+		- 1.3459
+	- when will the population double?
+		-
+- $1500 invested at 5.5% compounded continuously
+	- How much will be in the account in 3 years
+		- 
+- $2000 invested and compounded continuously and will grow to 2504.65 in 5
+years
+	- Find the interest rate
+		- 
+- 10,000$ invested at 2.75%
+	- A = 10000(1+(.0275/12))^t*12
+	- How much will you have in 3 years?
+		- 10858$
+- 1200 invested at 5% compounded quarterly
+	- 
+	- How long will it take to have $2400?
+		- 2000

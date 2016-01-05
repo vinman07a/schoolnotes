@@ -1,0 +1,35 @@
+# Solving Exponential and Log Equations
+
+## if a^x = a^y then x = y
+
+- 10^x = 20
+	- \log{10^x} = \log{20}
+	- x = \log{20}
+	- x = 1.301
+
+## if \log[a]{M} = \log[a]{N} then M=N
+
+	- \log{5x} =  \log{2x^2}
+		- 5x = 20x^2
+		- 0	= 20x^2 - 5x
+		- 0	= 5x(4x-1)
+		- 5x	= 0
+		- 4x-1	= 0
+		- x cannot be equal to zero therefore x = 1/4
+	- e^.08t	= 2500
+		- ln(e^.08t)	= ln(2500)
+		- .08t		= ln(2500)
+		- t		= ln(2500)/.08
+	- log[2](x)	= -3
+		- 2^-3	= x
+	- log[2](x+1)+log[2](x-1)	= 3
+		- log[2](x+1)(x-1)	= 3
+		- log[2](x^2-1)		= 3
+	- 4-2e^x	= -23
+		- -2e^x	= -27
+		- e^x	= 13.5
+		- ln(e^x)=ln(13.5)
+		- x	= 2.603
+	-
+
+

@@ -1,0 +1,45 @@
+# Properties of logs
+
+- log[a](M*N)	= log[a](M) + log[a](N)
+- log[a](M^{p})	= p*log[a](M)
+- log[a](M/N)	= log[a](M) - log[a](N)
+
+
+
+## Examples
+
+- Expand in terms of sums and differences with no exponents
+	- log[4](\frac{x^{2}y^{5}}{z^{4}})
+		- \log[4]{x^2}+\log[4]{y^5}-\log[4]{z^4}
+		- 2log[4](x)+5log[4](y)-4log[4](z)
+	- log[a](\sqrt{\frac{a^{3}b}{c^{5}}})
+		- 3/2log[a](a)+1/2log[a](b)-5/2log[a](c)
+		- 3/2+1/2log[a](b)-5/2log[a](c)
+	- log[4](2x/(yz^3))
+		- \log[4]{2} + \log[4]{x} - \log[4]{y} \log[4]{z^3}
+- Express as a single log
+	- 5log[b](x)-log[b](y)+1/4log[b](z)
+		- \log[b]{x^5}-\log[b]{y}5+\log[b]{\sqrt[4](z)}
+		- log[b](\frac{x^5*\sqrt[4](z)}{y})
+	- 2ln(x)-2ln(\sqrt(x))
+		- ln(x^2/\sqrt(x))
+		- ln(x)
+	- log[3](x)+log[4](y)-7log[7](x)-log[2](y)
+		- log(x^2)+log(y^4)-log(x^7)-log(y^2)
+		- log((x^{3}y^{4})/(x^{2}y^{2}))
+		- log((x^2)/(x^4))
+- Solving with an unkown base 
+	- You are given the following
+		- log[a](2)	= .301
+		- log[a](7)	= .845
+		- log[a](11)	= 1.041
+	- Awnser these questions
+		- log[a](14) 	= ?
+			- log[a](2*7) = log[a](2) + log[a](7)
+			- .301 + .845 = 1.146
+		- log[a](77) = ?
+			- 7*11 = 77
+			- 1.041 + .845 = 1.886
+			- log[a](77) = 1.886
+
+

@@ -1,0 +1,28 @@
+# Logarithms
+
+- f(x)=2^x
+	- [[5.2]]
+	- inverse
+		- x=2^y
+		- y=log2(y)
+		- f(x)=log2(y)
+
+- log[e](x) = ln(x)
+- log[a](a) = 1
+- log[a](1) = 0
+- log[10](a) = log(a)
+- log[b](a)= \frac{log(a)}{log(b)}
+
+- f(x) = ln(x)
+	- domain = (0,\infty)
+	- range = (-\infty,\infty)
+	- asymtote = x=0
+	- x-int= (1,0)
+	- y-int = DNE
+
+- f(x) = ln(x+4)
+	- domain = (-4,\infty)
+	- range = (-\infty,\infty)
+	- asymtote = x=-4
+	- x-int = (0,1.386)
+	- y-int = (-3,0)

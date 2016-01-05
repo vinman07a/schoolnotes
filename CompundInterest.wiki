@@ -1,0 +1,20 @@
+# - A=P(1+r/n)nt
+	- A = amount after interest
+	- P = principal
+	- t = number of years
+	- n = times per years
+	- r = rate
+
+## invest $100,000 at 6.5% compounded semianually
+
+- in four years
+	- A = 100,000(1+.065/2)2*4
+	- 129,157.75
+- in ten years
+	- 189,583.79
+
+## invest 5000 @ .15% compounded quarterly
+
+- in 3 years
+	- 5022.55
+
